@@ -1,0 +1,4 @@
+LEADER => 127.0.0.1:8001
+LEADER IS NOW NODE 2
+done writing data_id
+done writing data_id
